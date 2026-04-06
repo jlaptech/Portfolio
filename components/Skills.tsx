@@ -10,9 +10,9 @@ const skillGroups = [
     skills: ["Microsoft Intune (MDM)", "PowerShell Scripting", "Group Policy", "Device Imaging", "Asset Management"],
   },
   {
-    category: "Virtualization",
+    category: "Virtualization & Backup",
     color: "violet",
-    skills: ["VMware vSphere/ESXi", "Hyper-V", "Veeam Backup & Replication", "Azure VM Management"],
+    skills: ["VMware vSphere/ESXi", "Hyper-V", "Azure VM Management", "Veeam", "Datto", "Axcient", "MSP360"],
   },
   {
     category: "Networking",
