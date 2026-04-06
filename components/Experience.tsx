@@ -5,11 +5,11 @@ const jobs = [
     location: "Vancouver, BC",
     period: "July 2024 – March 2025",
     bullets: [
-      "Provided onsite desktop, laptop, and mobile support for enterprise clients, managing tickets from intake to resolution.",
-      "Managed Entra ID and Microsoft 365 including Exchange Online, security groups, and Google Workspace permissions.",
-      "Executed employee onboarding and offboarding including hardware provisioning, account setup, and MFA configuration.",
-      "Automated device configuration and security patching via Microsoft Intune and PowerShell, reducing manual deployment time.",
-      "Maintained IT asset inventory and knowledge base through cloud platforms supporting hardware/software lifecycle tracking.",
+      "Authored and maintained SOPs, onboarding guides, and knowledge base documentation adopted across the team — establishing repeatable service delivery standards used by the entire support desk.",
+      "Coached and onboarded new technicians end to end, covering tooling, ticket management, SLA adherence, and client communication standards from day one.",
+      "Managed Entra ID and Microsoft 365 including Exchange Online, security groups, and Google Workspace permissions across multiple client environments.",
+      "Automated device configuration and security patching via Microsoft Intune and PowerShell, reducing manual deployment overhead across client fleets.",
+      "Maintained IT asset inventory and administered backup and disaster recovery solutions including Axcient and MSP360 to support client business continuity.",
     ],
   },
   {
@@ -18,11 +18,11 @@ const jobs = [
     location: "Toronto, ON",
     period: "June 2022 – December 2023",
     bullets: [
-      "Administered virtual environments on vSphere, Hyper-V, and Azure for high availability of client workloads.",
-      "Configured DNS records and managed global security groups to streamline user access provisioning.",
-      "Deployed automated endpoint policies using Group Policy and Intune for scalable device management.",
-      "Mentored junior technicians on troubleshooting methodologies and knowledge base creation.",
-      "Managed multi-vendor antivirus platforms including Sophos and Fortinet for cybersecurity compliance.",
+      "Appointed project lead for a company-wide MFA enrollment initiative — coordinated deployment for 150 users across 3 days, achieving 98.7% completion on schedule with zero security incidents.",
+      "Developed junior technicians from the ground up — coaching from basic tooling and professional etiquette through to ticket management, SLA compliance, and independent client handling.",
+      "Authored team SOPs, onboarding documentation, and knowledge base articles that became the standard reference for new hires, reducing ramp-up time and repeat escalations.",
+      "Administered virtual environments on vSphere, Hyper-V, and Azure for high availability of client workloads, and managed Veeam and Datto backup and recovery solutions.",
+      "Deployed automated endpoint policies using Group Policy and Intune, and managed multi-vendor security platforms including Sophos and Fortinet for cybersecurity compliance.",
     ],
   },
   {
@@ -31,11 +31,11 @@ const jobs = [
     location: "Toronto, ON",
     period: "October 2021 – June 2022",
     bullets: [
-      "Resolved LAN/WAN, Wi-Fi, and VPN connectivity issues for remote and hybrid users.",
-      "Administered Microsoft 365 portal including Exchange permissions, calendar sharing, and Security & Compliance.",
-      "Provided first-response support for classroom and conference room AV systems.",
-      "Supported hardware lifecycle through device imaging, workstation setup, and vendor repair coordination.",
-      "Delivered after-hours emergency support for critical system updates and network infrastructure patches.",
+      "Served as first point of contact for end-user technical inquiries, resolving hardware, software, and peripheral issues with a client-first approach.",
+      "Resolved LAN/WAN, Wi-Fi, and VPN connectivity issues for remote and hybrid users, escalating complex incidents with structured documentation.",
+      "Contributed to onboarding documentation and internal knowledge base, ensuring new team members had clear reference materials from day one.",
+      "Administered Microsoft 365 portal including Exchange permissions, calendar sharing, and Security & Compliance settings.",
+      "Delivered after-hours emergency support for critical system updates and network infrastructure patches to ensure client business continuity.",
     ],
   },
 ];
@@ -46,7 +46,7 @@ export default function Experience() {
       <div className="max-w-4xl mx-auto">
         <div className="text-center mb-16 animate-hidden">
           <h2 className="text-4xl font-bold mb-4">Experience</h2>
-          <p className="text-gray-400">Professional journey in IT infrastructure and support</p>
+          <p className="text-gray-400">Professional journey in IT infrastructure, support, and team leadership</p>
         </div>
 
         <div className="relative animate-hidden">

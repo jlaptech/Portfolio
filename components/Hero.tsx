@@ -23,7 +23,7 @@ export default function Hero() {
         <div className="text-center md:text-left">
           <div className="inline-flex items-center gap-2 mb-4 px-3 py-1 rounded-full bg-cyan-400/10 border border-cyan-400/20 text-cyan-400 text-sm font-mono">
             <span className="w-2 h-2 rounded-full bg-cyan-400 animate-pulse" />
-            Open to new opportunities
+            Seeking Team Lead Opportunities
           </div>
 
           <h1 className="text-4xl md:text-6xl font-bold mb-4 bg-gradient-to-r from-white via-gray-200 to-cyan-400 bg-clip-text text-transparent">
@@ -31,7 +31,7 @@ export default function Hero() {
           </h1>
 
           <p className="text-xl md:text-2xl text-gray-400 mb-3 font-light">
-            IT Administrator &amp; Systems Specialist
+            Service Desk Lead · MSP Specialist
           </p>
 
           <p className="text-gray-500 mb-6 flex items-center justify-center md:justify-start gap-2">
@@ -46,10 +46,11 @@ export default function Hero() {
           </p>
 
           <p className="text-gray-400 max-w-2xl text-lg leading-relaxed mb-8">
-            IT professional with 4+ years of experience across cloud environments, Active Directory,
-            SaaS platforms, virtualization, and enterprise ticketing systems. Passionate about
-            clean infrastructure and exploring AI tools and automation to build the next generation
-            of IT solutions. Currently open to new opportunities.
+            MSP-experienced IT professional with 4+ years building and leading service desk
+            teams. Known for developing junior technicians from the ground up, authoring the
+            SOPs and onboarding programs that define how teams operate, and delivering projects
+            on time. Led a 150-user MFA deployment to 98.7% completion as appointed project
+            lead. Ready to own what I have already been doing — formally.
           </p>
 
           <div className="flex flex-wrap justify-center md:justify-start gap-4 mb-8">
@@ -96,8 +97,8 @@ export default function Hero() {
           <div className="grid grid-cols-3 gap-8 max-w-sm mx-auto md:mx-0 text-center md:text-left">
             {[
               { number: "4+", label: "Years Experience" },
-              { number: "2", label: "Companies" },
-              { number: "M365", label: "Certified" },
+              { number: "150+", label: "Users Led" },
+              { number: "2", label: "Teams Built" },
             ].map((stat) => (
               <div key={stat.label}>
                 <div className="text-2xl font-bold text-cyan-400">{stat.number}</div>

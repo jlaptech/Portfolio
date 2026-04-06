@@ -25,9 +25,9 @@ const skillGroups = [
     skills: ["Sophos", "Fortinet", "MFA Configuration", "Security Groups", "Compliance Management"],
   },
   {
-    category: "Support & Tools",
+    category: "Leadership & Operations",
     color: "pink",
-    skills: ["Windows/macOS Endpoints", "AV & Boardroom Support", "N-able", "WatchGuard", "Ticket Management"],
+    skills: ["Team Coaching & Mentorship", "SOP Development", "Onboarding Program Design", "Project Coordination", "Technical Training", "SLA Management", "Ticket Management"],
   },
 ];
 
