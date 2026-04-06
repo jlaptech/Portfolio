@@ -46,11 +46,12 @@ export default function Hero() {
           </p>
 
           <p className="text-gray-400 max-w-2xl text-lg leading-relaxed mb-8">
-            MSP-experienced IT professional with 4+ years building and leading service desk
-            teams. Known for developing junior technicians from the ground up, authoring the
-            SOPs and onboarding programs that define how teams operate, and delivering projects
-            on time. Led a 150-user MFA deployment to 98.7% completion as appointed project
-            lead. Ready to own what I have already been doing — formally.
+            IT Service Desk professional with 4+ years of MSP experience in team development,
+            technical operations, and service delivery. Trained technicians from their first
+            day in IT at F12.net and Dyrand Systems, and built the SOPs and onboarding guides
+            both teams depended on. Served as appointed project lead for a 150-user MFA
+            rollout, delivering 98.7% completion in three days. Focused on a Team Lead role
+            where leadership gets the recognition it earns.
           </p>
 
           <div className="flex flex-wrap justify-center md:justify-start gap-4 mb-8">
