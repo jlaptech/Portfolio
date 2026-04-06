@@ -23,7 +23,7 @@ export default function Hero() {
         <div className="text-center md:text-left">
           <div className="inline-flex items-center gap-2 mb-4 px-3 py-1 rounded-full bg-cyan-400/10 border border-cyan-400/20 text-cyan-400 text-sm font-mono">
             <span className="w-2 h-2 rounded-full bg-cyan-400 animate-pulse" />
-            Seeking Team Lead Opportunities
+            Open to Team Lead, Systems Specialist & IT Support Roles
           </div>
 
           <h1 className="text-4xl md:text-6xl font-bold mb-4 bg-gradient-to-r from-white via-gray-200 to-cyan-400 bg-clip-text text-transparent">
