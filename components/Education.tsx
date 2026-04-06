@@ -4,7 +4,7 @@ const items = [
     title: "Diploma in Computer Networking and Technical Support",
     institution: "Seneca College of Applied Arts and Technology",
     location: "Toronto, ON",
-    year: "2021",
+    year: null,
     status: null,
   },
   {
@@ -28,7 +28,7 @@ const items = [
     title: "Google AI Essentials",
     institution: "Google",
     location: null,
-    year: "2024",
+    year: "2026",
     status: "active",
   },
 ];
