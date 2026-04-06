@@ -31,7 +31,7 @@ export default function Hero() {
           </h1>
 
           <p className="text-xl md:text-2xl text-gray-400 mb-3 font-light">
-            Service Desk Lead · MSP Specialist
+            Service Desk Lead · Systems Specialist · Managed Services
           </p>
 
           <p className="text-gray-500 mb-6 flex items-center justify-center md:justify-start gap-2">
