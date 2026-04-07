@@ -13,7 +13,7 @@ export default function Hero() {
               <img
                 src="/profile.jpg"
                 alt="John Lester Peralta"
-                className="w-full h-full object-cover object-top"
+                className="w-full h-full object-cover object-[center_15%] scale-125"
               />
             </div>
           </div>
