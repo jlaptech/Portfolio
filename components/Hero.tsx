@@ -23,7 +23,7 @@ export default function Hero() {
         <div className="text-center md:text-left">
           <div className="inline-flex items-center gap-2 mb-4 px-3 py-1 rounded-full bg-cyan-400/10 border border-cyan-400/20 text-cyan-400 text-sm font-mono">
             <span className="w-2 h-2 rounded-full bg-cyan-400 animate-pulse" />
-            Open to Team Lead, Systems Specialist & IT Support Roles
+            Open to Team Lead, Systems Specialist & IT Analyst Roles
           </div>
 
           <h1 className="text-4xl md:text-6xl font-bold mb-4 bg-gradient-to-r from-white via-gray-200 to-cyan-400 bg-clip-text text-transparent">
@@ -95,7 +95,7 @@ export default function Hero() {
             </a>
           </div>
 
-          <div className="grid grid-cols-3 gap-8 max-w-sm mx-auto md:mx-0 text-center md:text-left">
+          <div className="grid grid-cols-3 gap-4 md:gap-8 max-w-sm mx-auto md:mx-0 text-center md:text-left">
             {[
               { number: "4+", label: "Years Experience" },
               { number: "150+", label: "Users Led" },

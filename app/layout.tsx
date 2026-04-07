@@ -6,9 +6,9 @@ const geistSans = Geist({ variable: "--font-geist-sans", subsets: ["latin"] });
 const geistMono = Geist_Mono({ variable: "--font-geist-mono", subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "John Lester Peralta | IT Professional & AI Explorer",
+  title: "John Lester Peralta | Service Desk Lead & Systems Specialist",
   description:
-    "Systems Specialist based in Vancouver, BC. Expertise in Microsoft 365, Azure, Intune, VMware, and modern AI tools.",
+    "Vancouver-based IT professional with 4+ years of MSP experience. Open to Team Lead, Systems Specialist, and IT Analyst roles. Expertise in Microsoft 365, Azure, Active Directory, and managed services.",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
