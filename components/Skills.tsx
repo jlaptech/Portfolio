@@ -7,7 +7,7 @@ const skillGroups = [
   {
     category: "Endpoint & Device Mgmt",
     color: "blue",
-    skills: ["Microsoft Intune (MDM)", "PowerShell Scripting", "Group Policy", "Device Imaging", "Asset Management"],
+    skills: ["Windows 10/11", "macOS", "Microsoft Intune (MDM)", "PowerShell Scripting", "Group Policy", "Device Imaging", "Asset Management"],
   },
   {
     category: "Virtualization & Backup",
@@ -23,6 +23,11 @@ const skillGroups = [
     category: "Security",
     color: "orange",
     skills: ["Sophos", "Fortinet", "MFA Configuration", "Security Groups", "Compliance Management"],
+  },
+  {
+    category: "MSP Tools",
+    color: "orange",
+    skills: ["ConnectWise", "ServiceNow", "ScreenConnect", "N-able", "IT Glue"],
   },
   {
     category: "Leadership & Operations",

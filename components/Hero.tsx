@@ -99,7 +99,7 @@ export default function Hero() {
             {[
               { number: "4+", label: "Years Experience" },
               { number: "150+", label: "Users Led" },
-              { number: "2", label: "Teams Built" },
+              { number: "5", label: "Techs Trained" },
             ].map((stat) => (
               <div key={stat.label}>
                 <div className="text-2xl font-bold text-cyan-400">{stat.number}</div>

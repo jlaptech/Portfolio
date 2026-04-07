@@ -12,7 +12,7 @@ const items = [
     title: "Microsoft 365 Certified: Fundamentals",
     institution: "Microsoft",
     location: null,
-    year: "2022",
+    year: "2024",
     status: "active",
   },
   {
