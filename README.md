@@ -2,7 +2,7 @@
 
 A modern, responsive IT portfolio website built with Next.js and Tailwind CSS. Designed to showcase professional experience, technical skills, and personal projects in a clean, dark-themed interface. Deployed and hosted via Vercel.
 
-**Live Site:** [portfolio-lac-three-48.vercel.app](https://portfolio-lac-three-48.vercel.app)
+**Live Site:** [jlaperalta.ca](https://jlaperalta.ca)
 
 ---
 
@@ -91,7 +91,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## Live Demo
 
-[https://portfolio-lac-three-48.vercel.app](https://portfolio-lac-three-48.vercel.app)
+[https://jlaperalta.ca](https://jlaperalta.ca)
 
 ### 4. Build for production
 

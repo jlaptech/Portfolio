@@ -26,7 +26,7 @@ const projects = [
     tags: ["Next.js", "TypeScript", "Tailwind CSS", "Vercel"],
     tagColor: "cyan",
     github: "https://github.com/jlaptech/Portfolio",
-    live: "https://portfolio-lac-three-48.vercel.app",
+    live: "https://jlaperalta.ca",
     metric: null,
   },
 ];
